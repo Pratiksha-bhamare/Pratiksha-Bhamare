@@ -37,9 +37,9 @@ I dream of becoming a **designer** — one who crafts beautiful and functional i
 
 ## 🔗 Connect With Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/) *(link to be updated)*
-- 📸 [Instagram](https://www.instagram.com/) *(link to be updated)*
-- 📁 [Portfolio](https://yourportfolio.github.io/) *(will be launched soon)*
+- 🌐 [LinkedIn](https://www.linkedin.com/) 
+- 📸 [Instagram](https://www.instagram.com/) 
+- 📁 [Portfolio](https://yourportfolio.github.io/) 
 
 ---
 
